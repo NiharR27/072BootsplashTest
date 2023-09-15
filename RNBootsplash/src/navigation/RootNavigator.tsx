@@ -5,6 +5,7 @@ import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 // import {createDrawerNavigator} from '@react-navigation/drawer';
 // import {GestureHandlerRootView} from 'react-native-gesture-handler';
 import BootSplash from 'react-native-bootsplash';
+import {SafeAreaProvider} from 'react-native-safe-area-context';
 import HomeScreen from '../screens/HomeScreen';
 import DetailScreen from '../screens/DetailScreen';
 import ContactScreen from '../screens/ContactScreen';
@@ -48,7 +49,7 @@ const RootNavigator = () => {
     <NavigationContainer
       onReady={() => {
         console.log('App is ready');
-        BootSplash.hide({fade: true});
+        // BootSplash.hide({fade: true});
       }}>
       {usingTab()}
     </NavigationContainer>
