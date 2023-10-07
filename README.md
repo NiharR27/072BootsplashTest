@@ -11,7 +11,7 @@ Basic working example: Commit: https://github.com/NiharR27/072BootsplashTest/com
 
 \<video src="https://github.com/NiharR27/072BootsplashTest/assets/52943748/717a8863-2394-4821-8a9f-46f482fb8bac" controls> Your browser does not support the video tag. \</video>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href=".gitbook/assets/Screen Shot 2023-07-13 at 7.42.47 pm.png">Screen Shot 2023-07-13 at 7.42.47 pm.png</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 \*\*Example with React Navigation: \*\*https://github.com/NiharR27/072BootsplashTest/commit/459dcb5fc805ba240b7a98efe1d8c04860cdd5b3
 
